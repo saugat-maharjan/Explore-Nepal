@@ -1,0 +1,173 @@
+/* index.html */
+.heading{
+    text-align: center;
+    background-color: brown; 
+    color: white;
+}
+
+.mustang{
+    float: left;
+    margin-right: 10px;
+
+}
+
+.rara{
+    float: left;
+    margin-right: 10px; 
+}
+.pokhara{
+    float: left;
+}
+
+.places {
+    text-align: center;
+    margin-left: 10%
+}
+
+
+.places:after {
+    content: ''; 
+    display: block; 
+    clear: both; 
+}
+
+p{
+    text-align: none;
+}
+.p1 {
+    width: 400px;
+    float: left;
+    margin-left: 150px;
+}
+
+.p2{
+    width: 400px;
+    float: left;
+    margin-left: 30px;
+}
+
+.p3{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.langtang img {
+    margin-left: 10%;
+}
+
+
+.name-mustang:hover{
+    color: red
+}
+
+.name-rara:hover{
+    color: yellow;
+}
+
+.name-pokhara:hover{
+    color: orangered;
+}
+
+.visit-nepal{
+    text-align: center;
+    clear: both;
+}
+
+.footer{
+    text-align: center;
+    background-color: brown; 
+    color: white;
+}
+
+
+/* Pokhara, Rara, Mustang */
+
+.place-name{
+    color: black;
+    font-size: 29px;
+    text-align: center;
+}
+
+.heading a {
+    color: white;
+}
+
+.place-name:hover{
+    color: blue;
+}
+
+.pokhara-place{
+text-align: center;
+}
+
+.about-pokhara1 {
+    width: 400px;
+    float: left;
+    margin-left: 150px;
+}
+
+.about-pokhara2{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.about-pokhara3{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.rara-place{
+    text-align: center;
+}
+
+.about-rara1 {
+    width: 400px;
+    float: left;
+    margin-left: 150px;
+}
+
+.about-rara2{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.about-rara3{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.mustang-place{
+    text-align: center;
+}
+
+.about-mustang1 {
+    width: 400px;
+    float: left;
+    margin-left: 150px;
+}
+
+.about-mustang2{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+
+.about-mustang3{
+    width: 400px;
+    float: left;
+    margin-left: 10px;
+}
+.footer{ 
+    color: white;
+    clear: both;
+    
+}
